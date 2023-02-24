@@ -2,7 +2,7 @@
 🛡️ evil-stealer v1.0
 </h1>
 
-![This is an image](https://raw.githubusercontent.com/Evil559/evil-stealer/main/screenshots/5.png)
+![This is an image](https://raw.githubusercontent.com/Evil559/evil-stealer/master/screenshots/5.png)
 
 <p align="center">
   Telegram: https://t.me/evil_stealer
@@ -54,8 +54,8 @@
 
 ### 📸 Screenshots
 
-<img title="" src="https://github.com/Evil559/evil-stealer/raw/main/screenshots/6.png" alt="" width="650">
-<img title="" src="https://github.com/Evil559/evil-stealer/raw/main/screenshots/1.png" alt="" width="650">
-<img title="" src="https://github.com/Evil559/evil-stealer/raw/main/screenshots/2.png" alt="" width="650">
-<img title="" src="https://github.com/Evil559/evil-stealer/raw/main/screenshots/3.png" alt="" width="650">
-<img title="" src="https://github.com/Evil559/evil-stealer/raw/main/screenshots/4.png" alt="" width="650">
+<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/6.png" alt="" width="650">
+<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/1.png" alt="" width="650">
+<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/2.png" alt="" width="650">
+<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/3.png" alt="" width="650">
+<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/4.png" alt="" width="650">
