@@ -2,7 +2,7 @@
 🛡️ evil-stealer v1.0
 </h1>
 
-![This is an image](https://raw.githubusercontent.com/Evil559/evil-stealer/master/screenshots/5.png)
+![This is an image](https://github.com/Evil559/evil-stealer/raw/master/screenshots/5.png)
 
 <p align="center">
   Telegram: https://t.me/evil_stealer
