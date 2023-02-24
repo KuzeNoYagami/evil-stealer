@@ -1,0 +1,5 @@
+node_modules/
+build/
+source/
+package-lock.json
+coreAES.js
